@@ -14,13 +14,7 @@ public class banHang {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("OKOkokokk Nhóm 4");
-        // ok update
-        //ok
-        //ok
-        //ok
-        //
-        System.out.println("Sửa ok ");
+       //update oke
     }
     
 }
