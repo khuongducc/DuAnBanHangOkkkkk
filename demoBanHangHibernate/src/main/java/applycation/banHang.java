@@ -17,6 +17,9 @@ public class banHang {
         //code new
         //code mơi
         //nguyen khuong duc
+        //khuong duc
+        //upcode
+
     }
 
 }
